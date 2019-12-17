@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeBestPractice</string>
+    <string name="authorization">授权</string>
+    <string name="authorization_message">程序相关权限被拒绝,导致无法使用该功能,请设置授权</string>
+    <string name="cancel">取消</string>
+    <string name="to_auth">去授权</string>
+</resources>
